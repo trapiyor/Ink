@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marca">
+        <item>CANON</item>
+        <item>EPSON</item>
+        <item>HP</item>
+        <item>BROTHER</item>
+    </string-array>
+</resources>
